@@ -31,9 +31,11 @@
     end
 
     def render
-      div do
-        "Chatapp"
+      DIV do
+        Nav()
+
       end
     end
+
   end
 
